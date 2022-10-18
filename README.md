@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Matt Burton
-- 👀 I’m interested in computer science and game development
-- 🌱 I’m currently learning mobile app development
+- 👋 Hi, I’m Matthew Burton
+- 👀 I’m interested in game development, data analytics, and artificial intelligence
+- 🔍 I'm looking for opportunities to learn new skills and diversify my toolbelt
+- 👾 I'm currently participating in my first game jam
+- 🎓 I’m majoring in computer science at High Point University
 - 📫 Connect with me at mattjburton64@gmail.com
 
 <!---
