@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Burton
-- 👀 I’m interested in game development, data analytics, and artificial intelligence
+- 👀 I’m interested in game development, front end design, and procedural generation
 - 🔍 I'm looking for opportunities to learn new skills and diversify my toolbelt
 - 🌐 I'm currently working on my personal website
 - 🎓 I’m majoring in computer science at High Point University
