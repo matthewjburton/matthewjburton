@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matthew Burton
 - 👀 Interested in game development, front end design, and artificial intelligence
 - 🔍 Looking to learn new skills and diversify my toolbelt
-- 🌐 Working on my portfolio website and a rouge-like platformer
+- 🌐 Working on my portfolio website and an aracde game
 - 🎓 Majoring in computer science at High Point University
 - 📫 Reach me at mattjburton64@gmail.com
 
