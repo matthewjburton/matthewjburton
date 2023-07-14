@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Matthew Burton
-- 👀 Interested in game development, front end design, and artificial intelligence
-- 🔍 Looking to learn new skills and diversify my toolbelt
-- 🌐 Working on my portfolio website and an aracde game
-- 🎓 Majoring in computer science at High Point University
-- 📫 Reach me at mattjburton64@gmail.com
+Game development, web design, and software engineering
+Computer science major at High Point University
 
 <!---
 mattBurton64/mattBurton64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
