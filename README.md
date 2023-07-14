@@ -1,4 +1,4 @@
-Game development, web design, and software engineering
+Game development, web design, and software engineering  
 Computer science major at High Point University
 
 <!---
