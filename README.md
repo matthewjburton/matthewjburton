@@ -38,10 +38,12 @@ Computer science major at High Point University
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matthewjburton&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matthewjburton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+-->
 
 ### Connect:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-j-burton/)
