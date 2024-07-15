@@ -1,5 +1,5 @@
-Software engineering, game development, and web design   
-Computer science major at High Point University
+Software engineer, game developer, and full stack web developer  
+B.S. Computer science from High Point University
 
 ### Languages:
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
