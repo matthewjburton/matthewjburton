@@ -1,5 +1,5 @@
 Software engineer, game developer, and full stack web developer  
-B.S. Computer science from High Point University
+B.S. Computer science from High Point University  
 Full Stack Certification from University of Helsinki
 
 ### Languages
